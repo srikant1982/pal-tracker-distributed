@@ -4,3 +4,5 @@ dependencies {
     compile "mysql:mysql-connector-java:$mysqlVersion"
     compile "junit:junit:$junitVersion"
 }
+
+
